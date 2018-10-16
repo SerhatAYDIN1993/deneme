@@ -1,0 +1,18 @@
+{
+  "name": "rmx78",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "bot.js": "^0.0.1",
+    "node": "^10.12.0",
+    "simple-youtube-api": "^5.0.2",
+    "ytdl-core": "^0.26.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Serhat AYDIN",
+  "license": "ISC"
+}
