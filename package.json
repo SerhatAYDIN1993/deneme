@@ -5,7 +5,7 @@
   "main": "bot.js",
   "dependencies": {
     "bot.js": "^0.0.1",
-    "node": "^10.12.0",
+    "node": "10.12.0",
     "ytdl-core": "^0.26.2"
   },
   "devDependencies": {},
