@@ -1,0 +1,16 @@
+{
+  "name": "rmx78",
+  "version": "0.0.1",
+  "description": "Serhat AYDIN tarafından yapıldı.",
+  "main": "komutlar.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Serhat AYDIN",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^10.12.0",
+    "simple-youtube-api": "^5.0.2",
+    "ytdl-core": "^0.26.2"
+  }
+}
